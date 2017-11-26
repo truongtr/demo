@@ -1,0 +1,15 @@
+# Node
+node_modules
+npm-debug.log
+
+# OSX
+.DS_Store
+
+# Environment
+.env
+
+# audio files
+backend/audio
+
+#build folders
+build
